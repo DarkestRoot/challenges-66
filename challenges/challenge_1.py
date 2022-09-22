@@ -1,2 +1,8 @@
 def main():
-  pass
+  a = input()
+  print("Hello", a)
+
+main()
+
+
+#haha functions
